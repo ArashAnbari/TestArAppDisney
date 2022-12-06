@@ -1,0 +1,3 @@
+Appen är tänkt som en kopia av IKEA place. Det vill säga att man ska kunna placera ut möbler i sin/sitt lägenhet/hus. I huvudmenyn kan man välja vilken möbel man vill placera. 
+Tracking knappen nere i höger stänger av/på trackingen. Exit knappen nere i vänster stänger ner hela appen. Uppe i högra hörnet finns en knapp för att stänga menyn. 
+Det finns en slider för att rotera möblen du senast placerat ut. Delete last tar bort senast placerad möbel. 

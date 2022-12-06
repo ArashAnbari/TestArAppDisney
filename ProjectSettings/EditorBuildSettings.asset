@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Plane Track.unity
+    guid: 66d38ef8c9477da4c9ec5105beb570e0
+  - enabled: 0
+    path: Assets/Scenes/GPS location.unity
+    guid: 4bcf5c94420042d44a70193817fb469b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: fe996ddb96fffea42b74213c03b5f573, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7c2a0493d56b325489c7c788834d13a8, type: 2}
